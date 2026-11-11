@@ -10,8 +10,8 @@ Make sure the following software is installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone git clone https://github.com/iCopterr/typescript-merge-sorted-arrays.git
+cd typescript-merge-sorted-arrays
 ```
 
 ### 2. Install Dependencies
